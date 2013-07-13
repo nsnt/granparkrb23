@@ -1,0 +1,1 @@
+To validate the code, "rspec -fs -c granpark_rb_23_spec.rb"
